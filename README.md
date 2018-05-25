@@ -15,4 +15,3 @@ Let's say you just got a job from the City of San Diego as a Data Scientist. Fir
 - What type of events are considered special events?  
 - What are the most common types of special events?
 - What is the geographic distribution of Special Events?
-- What other questions do you need to ask?
