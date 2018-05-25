@@ -1,0 +1,13 @@
+Field,Description,Possible values
+event_id,Unique identifier of event,
+event_title,Title of event,
+event_subtitle,Subtitle of event,
+event_type,Type of event,"festival, museum, music, other, parades, sports"
+event_desc,Description of event,
+event_host,Event host organization,
+event_loc,Description of location,
+event_start,Start date and time,
+event_end,End date and time,
+exp_attendance,Expected number of attendess,
+exp_participants,Expected number of participants,
+event_url,URL for event,
